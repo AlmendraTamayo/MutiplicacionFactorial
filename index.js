@@ -17,7 +17,7 @@ if (num<1 || num>20){
             resultadofact=resultadofact*j
     
         }
-        console.log("Factorial de "+i+" es "+resultadofact)
+        console.log("Factorial de "+i+" es: "+resultadofact)
     }
 
 }
